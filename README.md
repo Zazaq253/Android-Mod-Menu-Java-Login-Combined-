@@ -1,4 +1,4 @@
-# Android-Mod+Menu-Java-Login-(Combined)
+# Android-Mod+Menu-Java-Login-(Combine)
 
 This is the combined Android Mod Menu + Java Login Project
 Mod Menu project credits given to @LGL
